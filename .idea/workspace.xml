@@ -3,31 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="27a1d1cb-8876-4cb0-90dc-e4592a4a2252" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/IntelliJ_OnlineSearch_v2_jar/IntelliJ-OnlineSearch-v2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/IntelliJ_OnlineSearch_v2_jar/IntelliJ-OnlineSearch-v2.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/META-INF/plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/io/github/maddouri/intellij/OnlineSearch/action/LaunchSearchAction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/io/github/maddouri/intellij/OnlineSearch/action/LaunchSearchActionRegistration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/io/github/maddouri/intellij/OnlineSearch/action/ShowSearchEnginesAction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/io/github/maddouri/intellij/OnlineSearch/state/PluginSettings$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/io/github/maddouri/intellij/OnlineSearch/state/PluginSettings$SearchEngine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/io/github/maddouri/intellij/OnlineSearch/state/PluginSettings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/io/github/maddouri/intellij/OnlineSearch/ui/SettingsConfigurable$SettingsPanel$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/io/github/maddouri/intellij/OnlineSearch/ui/SettingsConfigurable$SettingsPanel$SearchEngineEntry$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/io/github/maddouri/intellij/OnlineSearch/ui/SettingsConfigurable$SettingsPanel$SearchEngineEntry$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/io/github/maddouri/intellij/OnlineSearch/ui/SettingsConfigurable$SettingsPanel$SearchEngineEntry$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/io/github/maddouri/intellij/OnlineSearch/ui/SettingsConfigurable$SettingsPanel$SearchEngineEntry$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/io/github/maddouri/intellij/OnlineSearch/ui/SettingsConfigurable$SettingsPanel$SearchEngineEntry$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/io/github/maddouri/intellij/OnlineSearch/ui/SettingsConfigurable$SettingsPanel$SearchEngineEntry$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/io/github/maddouri/intellij/OnlineSearch/ui/SettingsConfigurable$SettingsPanel$SearchEngineEntry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/io/github/maddouri/intellij/OnlineSearch/ui/SettingsConfigurable$SettingsPanel$SearchEnginePanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/io/github/maddouri/intellij/OnlineSearch/ui/SettingsConfigurable$SettingsPanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/io/github/maddouri/intellij/OnlineSearch/ui/SettingsConfigurable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/META-INF/plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/github/maddouri/intellij/OnlineSearch/action/LaunchSearchAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/github/maddouri/intellij/OnlineSearch2/action/LaunchSearchAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/github/maddouri/intellij/OnlineSearch/action/LaunchSearchActionRegistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/github/maddouri/intellij/OnlineSearch2/action/LaunchSearchActionRegistration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/github/maddouri/intellij/OnlineSearch/action/ShowSearchEnginesAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/github/maddouri/intellij/OnlineSearch2/action/ShowSearchEnginesAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/github/maddouri/intellij/OnlineSearch/state/PluginSettings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/github/maddouri/intellij/OnlineSearch2/state/PluginSettings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/github/maddouri/intellij/OnlineSearch/ui/SettingsConfigurable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/github/maddouri/intellij/OnlineSearch2/ui/SettingsConfigurable.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +29,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="ASKED_MANAGE_IGNORE_FILES" value="true" />
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../idea-run-typescript" />
@@ -116,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1562396830261</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fix">
+      <created>1562408820510</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1562408820510</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +111,31 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -134,9 +145,17 @@
         </entry>
       </map>
     </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="OnlineSearch2" />
-    <option name="LAST_COMMIT_MESSAGE" value="OnlineSearch2" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
 </project>

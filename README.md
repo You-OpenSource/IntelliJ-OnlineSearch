@@ -1,4 +1,4 @@
-# OnlineSearch [![Download](https://img.shields.io/badge/download-Jetbrains%20Plugin%20Repository-blue.svg?style=flat-square)](https://plugins.jetbrains.com/plugin/8298)
+# OnlineSearch [![Download](https://img.shields.io/badge/download-Jetbrains%20Plugin%20Repository-blue.svg?style=flat-square)](https://plugins.jetbrains.com/plugin/12678-onlinesearch2)
 
 [![License](https://img.shields.io/github/license/maddouri/IntelliJ-OnlineSearch.svg?style=flat-square)](LICENSE)
 
