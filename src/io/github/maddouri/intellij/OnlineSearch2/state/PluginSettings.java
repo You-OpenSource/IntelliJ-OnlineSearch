@@ -1,9 +1,8 @@
-package io.github.maddouri.intellij.OnlineSearch.state;
+package io.github.maddouri.intellij.OnlineSearch2.state;
 
 import com.intellij.openapi.components.PersistentStateComponent;
 import com.intellij.openapi.components.ServiceManager;
 import com.intellij.openapi.components.State;
-import com.intellij.openapi.components.StoragePathMacros;
 import com.intellij.openapi.components.Storage;
 import com.intellij.util.xmlb.XmlSerializerUtil;
 import org.jetbrains.annotations.Nullable;
@@ -20,7 +19,7 @@ import java.util.ArrayList;
  *  @link https://github.com/dubreuia/intellij-plugin-save-actions/blob/master/src/com/dubreuia/model/Storage.java#L11
  */
 @State(
-    name = "OnlineSearchPluginSettings",
+    name = "PluginSettings",
     storages = {
         @Storage("OnlineSearch_v1_PluginSettings.xml")
     }

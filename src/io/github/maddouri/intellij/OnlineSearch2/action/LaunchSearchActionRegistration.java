@@ -1,16 +1,17 @@
-package io.github.maddouri.intellij.OnlineSearch.action;
+package io.github.maddouri.intellij.OnlineSearch2.action;
 
 import com.intellij.openapi.actionSystem.ActionManager;
 import com.intellij.openapi.actionSystem.AnAction;
 import com.intellij.openapi.actionSystem.DefaultActionGroup;
 import com.intellij.openapi.application.ApplicationManager;
 import com.intellij.openapi.components.ApplicationComponent;
-import io.github.maddouri.intellij.OnlineSearch.state.PluginSettings;
+import com.intellij.openapi.components.BaseComponent;
+import io.github.maddouri.intellij.OnlineSearch2.state.PluginSettings;
 import org.jetbrains.annotations.NotNull;
 
 /** Registers a new action with each search engine.
  */
-public class LaunchSearchActionRegistration implements ApplicationComponent {
+public class LaunchSearchActionRegistration implements BaseComponent {
 
     public static final String COMPONENT_GROUP = "OnlineSearch.EditorPopupMenu.LaunchSearchSubmenu";  // @see plugin.xml/actions
     public static final String COMPONENT_NAME  = "OnlineSearchComponent";

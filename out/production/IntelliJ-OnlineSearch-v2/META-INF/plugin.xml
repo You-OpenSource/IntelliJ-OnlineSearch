@@ -37,14 +37,14 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <!-- Add your extensions here -->
-        <applicationConfigurable instance="io.github.maddouri.intellij.OnlineSearch.ui.SettingsConfigurable"/>
-        <applicationService serviceImplementation="io.github.maddouri.intellij.OnlineSearch.state.PluginSettings"/>
+        <applicationConfigurable instance="io.github.maddouri.intellij.OnlineSearch2.ui.SettingsConfigurable"/>
+        <applicationService serviceImplementation="io.github.maddouri.intellij.OnlineSearch2.state.PluginSettings"/>
     </extensions>
 
     <!-- Add your application components here -->
     <application-components>
         <component>
-            <implementation-class>io.github.maddouri.intellij.OnlineSearch.action.LaunchSearchActionRegistration</implementation-class>
+            <implementation-class>io.github.maddouri.intellij.OnlineSearch2.action.LaunchSearchActionRegistration</implementation-class>
         </component>
     </application-components>
 
@@ -125,7 +125,7 @@
             <!-- this is mainly to allow assigning a keyboard shortcut to show the list of search engines -->
             <add-to-group group-id="EditorActions" anchor="first"/>
 
-            <action id="OnlineSearch.EditorActions.ShowSearchEnginesAction" class="io.github.maddouri.intellij.OnlineSearch.action.ShowSearchEnginesAction" text="Online_Search" description="A test menu item"/>
+            <action id="OnlineSearch.EditorActions.ShowSearchEnginesAction" class="io.github.maddouri.intellij.OnlineSearch2.action.ShowSearchEnginesAction" text="Online_Search" description="A test menu item"/>
         </group>
     </actions>
 

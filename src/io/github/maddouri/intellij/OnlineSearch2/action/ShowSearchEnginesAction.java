@@ -1,4 +1,4 @@
-package io.github.maddouri.intellij.OnlineSearch.action;
+package io.github.maddouri.intellij.OnlineSearch2.action;
 
 import com.intellij.openapi.actionSystem.ActionManager;
 import com.intellij.openapi.actionSystem.AnAction;

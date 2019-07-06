@@ -1,4 +1,4 @@
-package io.github.maddouri.intellij.OnlineSearch.action;
+package io.github.maddouri.intellij.OnlineSearch2.action;
 
 import com.intellij.ide.browsers.BrowserLauncher;
 import com.intellij.openapi.actionSystem.AnAction;
@@ -7,17 +7,16 @@ import com.intellij.openapi.actionSystem.CommonDataKeys;
 import com.intellij.openapi.editor.Editor;
 import com.intellij.openapi.project.Project;
 import com.intellij.openapi.ui.Messages;
-import io.github.maddouri.intellij.OnlineSearch.state.PluginSettings;
+import io.github.maddouri.intellij.OnlineSearch2.state.PluginSettings;
 
 import java.io.IOException;
-import java.net.URLEncoder;
 
-/** Uses the provided {@link io.github.maddouri.intellij.OnlineSearch.action.LaunchSearchAction#searchEngine}
+/** Uses the provided {@link io.github.maddouri.intellij.OnlineSearch2.action.LaunchSearchAction#searchEngine}
  *  to search for the selected code.
  *
  *  Launches the web browser.
  *
- *  This action is registered by {@link io.github.maddouri.intellij.OnlineSearch.action.LaunchSearchActionRegistration}
+ *  This action is registered by {@link io.github.maddouri.intellij.OnlineSearch2.action.LaunchSearchActionRegistration}
  */
 public class LaunchSearchAction extends AnAction {
 

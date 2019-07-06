@@ -1,11 +1,11 @@
-package io.github.maddouri.intellij.OnlineSearch.ui;
+package io.github.maddouri.intellij.OnlineSearch2.ui;
 
 import com.intellij.icons.AllIcons;
 import com.intellij.openapi.options.Configurable;
 import com.intellij.openapi.options.ConfigurationException;
 import com.intellij.ui.components.JBScrollPane;
-import io.github.maddouri.intellij.OnlineSearch.action.LaunchSearchActionRegistration;
-import io.github.maddouri.intellij.OnlineSearch.state.PluginSettings;
+import io.github.maddouri.intellij.OnlineSearch2.action.LaunchSearchActionRegistration;
+import io.github.maddouri.intellij.OnlineSearch2.state.PluginSettings;
 import org.jetbrains.annotations.Nls;
 import org.jetbrains.annotations.Nullable;
 
@@ -37,7 +37,7 @@ public class SettingsConfigurable implements Configurable {
             public final JTextField url              = new JTextField("", 1);
             public final JTextField queryPlaceholder = new JTextField("", 1);
 
-            public final JButton    rem  = new JButton("Remove", AllIcons.Actions.Delete);
+            public final JButton    rem  = new JButton("Remove", AllIcons.Actions.Cancel);
 
             public SearchEngineEntry(final PluginSettings.SearchEngine searchEngine) {
                 super();
@@ -190,7 +190,7 @@ public class SettingsConfigurable implements Configurable {
             }
         }
 
-        /** Container for the list of {@link io.github.maddouri.intellij.OnlineSearch.ui.SettingsConfigurable.SettingsPanel.SearchEngineEntry}'s
+        /** Container for the list of {@link io.github.maddouri.intellij.OnlineSearch2.ui.SettingsConfigurable.SettingsPanel.SearchEngineEntry}'s
          */
         public class SearchEnginePanel extends JPanel {
 
