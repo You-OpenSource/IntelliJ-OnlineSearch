@@ -2,6 +2,8 @@
 
 [![License](https://img.shields.io/github/license/maddouri/IntelliJ-OnlineSearch.svg?style=flat-square)](LICENSE)
 
+fork from https://github.com/maddouri/IntelliJ-OnlineSearch
+
 <p>Search the selected text using <b>any</b> online search engine.</p>
 <p>
   <ul type="disc">

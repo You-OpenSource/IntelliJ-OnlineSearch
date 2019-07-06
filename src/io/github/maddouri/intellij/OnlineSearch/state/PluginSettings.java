@@ -4,6 +4,7 @@ import com.intellij.openapi.components.PersistentStateComponent;
 import com.intellij.openapi.components.ServiceManager;
 import com.intellij.openapi.components.State;
 import com.intellij.openapi.components.StoragePathMacros;
+import com.intellij.openapi.components.Storage;
 import com.intellij.util.xmlb.XmlSerializerUtil;
 import org.jetbrains.annotations.Nullable;
 
@@ -19,12 +20,9 @@ import java.util.ArrayList;
  *  @link https://github.com/dubreuia/intellij-plugin-save-actions/blob/master/src/com/dubreuia/model/Storage.java#L11
  */
 @State(
-    name = "PluginSettings",
+    name = "OnlineSearchPluginSettings",
     storages = {
-        @com.intellij.openapi.components.Storage(
-            /* @TODO use `value` instead of `file` to get rid of the "deprecated" warning */
-            file = StoragePathMacros.APP_CONFIG + "/OnlineSearch_v1_PluginSettings.xml"
-        )
+        @Storage("OnlineSearch_v1_PluginSettings.xml")
     }
 )
 public class PluginSettings implements PersistentStateComponent<PluginSettings> {

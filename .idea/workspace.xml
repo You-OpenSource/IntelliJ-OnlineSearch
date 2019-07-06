@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27a1d1cb-8876-4cb0-90dc-e4592a4a2252" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelliJ-OnlineSearch-v2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/META-INF/plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/io/github/maddouri/intellij/OnlineSearch/action/LaunchSearchAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/io/github/maddouri/intellij/OnlineSearch/action/LaunchSearchActionRegistration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/io/github/maddouri/intellij/OnlineSearch/action/ShowSearchEnginesAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/io/github/maddouri/intellij/OnlineSearch/state/PluginSettings$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/io/github/maddouri/intellij/OnlineSearch/state/PluginSettings$SearchEngine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/io/github/maddouri/intellij/OnlineSearch/state/PluginSettings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/io/github/maddouri/intellij/OnlineSearch/ui/SettingsConfigurable$SettingsPanel$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/io/github/maddouri/intellij/OnlineSearch/ui/SettingsConfigurable$SettingsPanel$SearchEngineEntry$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/io/github/maddouri/intellij/OnlineSearch/ui/SettingsConfigurable$SettingsPanel$SearchEngineEntry$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/io/github/maddouri/intellij/OnlineSearch/ui/SettingsConfigurable$SettingsPanel$SearchEngineEntry$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/io/github/maddouri/intellij/OnlineSearch/ui/SettingsConfigurable$SettingsPanel$SearchEngineEntry$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/io/github/maddouri/intellij/OnlineSearch/ui/SettingsConfigurable$SettingsPanel$SearchEngineEntry$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/io/github/maddouri/intellij/OnlineSearch/ui/SettingsConfigurable$SettingsPanel$SearchEngineEntry$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/io/github/maddouri/intellij/OnlineSearch/ui/SettingsConfigurable$SettingsPanel$SearchEngineEntry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/io/github/maddouri/intellij/OnlineSearch/ui/SettingsConfigurable$SettingsPanel$SearchEnginePanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/io/github/maddouri/intellij/OnlineSearch/ui/SettingsConfigurable$SettingsPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/io/github/maddouri/intellij/OnlineSearch/ui/SettingsConfigurable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineSearch.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/META-INF/plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/github/maddouri/intellij/OnlineSearch/state/PluginSettings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/github/maddouri/intellij/OnlineSearch/state/PluginSettings.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1NcvbpxqeTIy9B446pRO2nqKXDe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_MANAGE_IGNORE_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.24299066" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Plugin" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="IntelliJ-OnlineSearch-v2" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="IntelliJ-OnlineSearch-v2" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27a1d1cb-8876-4cb0-90dc-e4592a4a2252" name="Default Changelist" comment="" />
+      <created>1562393273146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562393273146</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
