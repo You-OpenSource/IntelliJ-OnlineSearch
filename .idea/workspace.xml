@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27a1d1cb-8876-4cb0-90dc-e4592a4a2252" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/IntelliJ_OnlineSearch_v2_jar/IntelliJ-OnlineSearch-v2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/IntelliJ_OnlineSearch_v2_jar/IntelliJ-OnlineSearch-v2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IntelliJ-OnlineSearch-v2/META-INF/plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/META-INF/plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +78,7 @@
       <workItem from="1662517058877" duration="25000" />
       <workItem from="1662517101530" duration="329000" />
       <workItem from="1662517488056" duration="59000" />
+      <workItem from="1662517742541" duration="261000" />
     </task>
     <task id="LOCAL-00001" summary="OnlineSearch2">
       <created>1562396728611</created>
@@ -110,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1562410778090</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updated to IntelliJ 20224">
+      <created>1662517893414</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662517893414</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,6 +188,7 @@
     <MESSAGE value="OnlineSearch2" />
     <MESSAGE value="fix" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="Updated to IntelliJ 20224" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated to IntelliJ 20224" />
   </component>
 </project>
