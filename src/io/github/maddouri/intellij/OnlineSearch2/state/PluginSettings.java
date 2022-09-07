@@ -61,6 +61,7 @@ public class PluginSettings implements PersistentStateComponent<PluginSettings> 
 
     @com.intellij.util.xmlb.annotations.Transient  // exclude from state
     public static final ArrayList<SearchEngine> DEFAULT_SEARCH_ENGINES = new ArrayList<SearchEngine>(){{  // https://stackoverflow.com/a/1958961/865719
+        add(new SearchEngine("_You.com"       , "https://code.you.com/search?utm_source=opensource&utm_medium=GitHub&utm_campaign=onlinesearch2&q=#"                    + DEFAULT_QUERY_PLACEHOLDER, DEFAULT_QUERY_PLACEHOLDER));
         add(new SearchEngine("_Google"       , "https://www.google.com/search?q="                    + DEFAULT_QUERY_PLACEHOLDER, DEFAULT_QUERY_PLACEHOLDER));
         add(new SearchEngine("Git_hub"       , "https://github.com/search?q="                        + DEFAULT_QUERY_PLACEHOLDER, DEFAULT_QUERY_PLACEHOLDER));
         add(new SearchEngine("_SearchCode"   , "https://searchcode.com/?q="                          + DEFAULT_QUERY_PLACEHOLDER, DEFAULT_QUERY_PLACEHOLDER));
@@ -68,7 +69,7 @@ public class PluginSettings implements PersistentStateComponent<PluginSettings> 
         add(new SearchEngine("_CppReference" , "http://en.cppreference.com/mwiki/index.php?search="  + DEFAULT_QUERY_PLACEHOLDER, DEFAULT_QUERY_PLACEHOLDER));  // not https :(
         add(new SearchEngine("C_Make"        , "https://cmake.org/cmake/help/latest/search.html?q="  + DEFAULT_QUERY_PLACEHOLDER, DEFAULT_QUERY_PLACEHOLDER));
     }};
-
+ 
     /** The list of search engines
      *
      *  This will be saved in the config file.
