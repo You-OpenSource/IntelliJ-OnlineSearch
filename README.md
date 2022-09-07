@@ -3,9 +3,10 @@
 [![License](https://img.shields.io/github/license/maddouri/IntelliJ-OnlineSearch.svg?style=flat-square)](LICENSE)
 
 fork from https://github.com/maddouri/IntelliJ-OnlineSearch
+
 fork from https://github.com/bluelovers/IntelliJ-OnlineSearch
 
-We add You.com as the default search engine in this version.
+We add [You.com](https://www.you.com/?utm_source=opensource&utm_medium=GitHub&utm_campaign=bluelovers) as the default search engine in this version.
 
 <p>Search the selected text using <b>any</b> online search engine.</p>
 <p>
